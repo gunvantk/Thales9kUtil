@@ -71,6 +71,5 @@ public static void main(String[] args)
     out.println(" genpin   - generate PIN");
     out.println(" gencvc   - generate CVC");
     out.println(" runcmd   - run arbitrary command");
-    out.println(" cuets    - process cuets key file");
   }
 }
